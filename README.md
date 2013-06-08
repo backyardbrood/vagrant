@@ -15,3 +15,7 @@
 The API will be available at `http://api.backyardbrood.dev:8080`
 
 The site will be available at `http://backyardbrood.dev:8080`
+
+On Windows add the following to [Windows Dir]\system32\drivers\etc\hosts
+
+127.0.0.1 api.backyardbrood.dev backyardbrood.dev
